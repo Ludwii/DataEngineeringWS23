@@ -1,0 +1,1 @@
+lego_report_solution: https://lookerstudio.google.com/reporting/bd3ca623-7501-42e3-9d8e-1501228a6988
