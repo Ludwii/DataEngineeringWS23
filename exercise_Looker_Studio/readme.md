@@ -43,9 +43,9 @@ For the exercises in this repository the provided computing power by google shou
 
 ## Setup Google Looker Studio
 
-- Create a google account at https://accounts.google.com/signup 
+- Create a google account at https://accounts.google.com/signup.
 - Go to https://lookerstudio.google.com/ and log in with your google account. 
-- Accept the terms of service
+- Accept the terms of service.
 
 ## Excercise
 
@@ -55,19 +55,27 @@ This excercise serves as a first hand experience with self service analytics usi
 ### Motivation
 
 Lego is more popular than ever, reaching record profits and marketshares unrivaled by any competitor.
-During the crisis, Lego especially discovered a new type of customer: young men. They provide a new steady source of income. ([reference](https://www.zeit.de/zeit-magazin/leben/2023-12/lego-popularitaet-spielzeug-videospiele))
+During the crisis, Lego discovered a new type of customer: young men. They provide a new steady source of income. ([reference](https://www.zeit.de/zeit-magazin/leben/2023-12/lego-popularitaet-spielzeug-videospiele))
 
 ![ERROR: <display looker Studio Logo>](../materials/screenshot/MilenniumFalcon.jpeg)
 
 With the new [maven data challenge](https://mavenanalytics.io/data-playground) that includes all lego sets released by lego from up to 1970, we can take a closer look on how this new market trend changed legos product portfolio over the years.
 
+### Overview
+
+The exercise overview can be depicted as such:
+!["alt"](../materials/screenshot/ExcerciseOverview.jpg)
+
+a data source will be created by the data connector. 
+The data will then be adjusted inside a data modelling layer. 
+The prepared data is than visualised as a report.
+
 ### Sections
 
-The excercise is divided into three sections within their respective folders that should be completed in succession, since they depend on each other:
-- `./1_data_setup`: covers the creation of a data source via a google connector and basic data modelling on the data source
-- `./2_create_report`: covers the creation of a report with different diagram and control types while additionally trying to answer a few questions about the data
-- `./3_connect_additional_data`: covers the integration of a new data source with changing data that will refresh the reports.
+The excercise is divided into two sections within their respective folders that should be completed in succession, since they depend on each other:
+- `./1_data_setup`: covers the creation of a data source and basic data modelling.
+- `./2_create_report`: covers the creation of a report with different diagram and control types while additionally trying to answer a few questions about the underlying data.
 
-The excercise is located in the `readme.md` of its respective folder.
+Instructions are located in the `./<section>/readme.md`.
 
-Each section includes a `./<section>/solution` folder, which contains hints that can help you get to the solution and public links to shared google resources that represent a possible solution to each exercise.
+Each section also includes a `./<section>/solution` folder, which contains hints that can help you get to the solution and public links to shared google resources that represent a possible solution to each exercise.
