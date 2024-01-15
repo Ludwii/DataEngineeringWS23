@@ -1,14 +1,14 @@
-## data setup
-In this excercise you will create a new report in Google Looker Studio and use it to answer questions on the underlying data.
+## report creation
+In this exercise you will create a new report in Google Looker Studio and use it to answer questions on the underlying data.
 
-!["alt"](../../materials/screenshot/ExcerciseOverview.jpg)
+!["alt"](../../materials/screenshot/exerciseOverview.jpg)
 
-Looking at the excercise overview, this excercise section will focus on Data Visualisation.
+Looking at the exercise overview, this exercise section will focus on Data Visualisation.
 
 #### Exercise
    1. Create a new Report
       1. Log into [Google Looker Studio](https://lookerstudio.google.com/).
-      1. Create a new report and select the data source that was prepared in excercise `../1_data_setup`.
+      1. Create a new report and select the data source that was prepared in exercise `../1_data_setup`.
       2. Adjust the auto-generated table to show the lego set theme its count of lego sets.
    2. Add "control" widgets.
       1. Add a "drop-down list" that allows you to choose the lego theme.

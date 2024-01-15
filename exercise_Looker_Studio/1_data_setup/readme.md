@@ -1,9 +1,9 @@
 ## data setup
-In this excercise you will create a new data source in Google Looker Studio and adjust its data model.
+In this exercise you will create a new data source in Google Looker Studio and adjust its data model.
 
-!["alt"](../../materials/screenshot/ExcerciseOverview.jpg)
+!["alt"](../../materials/screenshot/exerciseOverview.jpg)
 
-Looking at the excercise overview, this excercise section will focus on the Data Connector and Data Modelling.
+Looking at the exercise overview, this exercise section will focus on the Data Connector and Data Modelling.
 
 #### Exercise
 

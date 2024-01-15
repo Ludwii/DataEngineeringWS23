@@ -5,7 +5,7 @@
   1. Create a new Report
        1. Log into [Google Looker Studio](https://lookerstudio.google.com/).
         > signed into google account
-       2. Create a new report and select the data source that was prepared in excercise `../1_data_setup`.
+       2. Create a new report and select the data source that was prepared in exercise `../1_data_setup`.
            > Click on "Create" and select "Report" in [Google Looker Studio](https://lookerstudio.google.com/)
            > 
            > a new report is shown in the Google Looker Studio [Report Menu](https://lookerstudio.google.com/navigation/reporting)
@@ -59,4 +59,4 @@
 
 #### Links to a possible solution:
 
-Example of a report after excercise 3.5: [link to shared resource](https://lookerstudio.google.com/reporting/bd3ca623-7501-42e3-9d8e-1501228a6988)
+Example of a report after exercise 3.5: [link to shared resource](https://lookerstudio.google.com/reporting/bd3ca623-7501-42e3-9d8e-1501228a6988)

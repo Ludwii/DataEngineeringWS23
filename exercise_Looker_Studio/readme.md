@@ -1,11 +1,11 @@
-# Google Looker Studio excercise
+# Google Looker Studio exercise
 
 This readme contains an introduction to Google Looker Studio, a section on how to set it up and instructions to a real-life exercise on self service analytics based on a lego dataset from the current [maven data challenge](https://mavenanalytics.io/data-playground) 
 
 ## About Google Looker Studio
 
 Google looker Studios simple control, flexibility and simplicity sets the software apart from more popular competitors like PowerBI or Tableau. 
-It's simplicity is achived by concentrating on fewer features while being able to deliver results faster, which makes it a great platform to do a quick excercise. 
+It's simplicity is achived by concentrating on fewer features while being able to deliver results faster, which makes it a great platform to do a quick exercise. 
 
 ![ERROR: <display looker Studio Logo>](../materials/screenshot/LookerStudioLogo.png)
 
@@ -47,9 +47,9 @@ For the exercises in this repository the provided computing power by google shou
 - Go to https://lookerstudio.google.com/ and log in with your google account. 
 - Accept the terms of service.
 
-## Excercise
+## exercise
 
-This excercise serves as a first hand experience with self service analytics using Google Looker Studio.
+This exercise serves as a first hand experience with self service analytics using Google Looker Studio.
 
 
 ### Motivation
@@ -64,7 +64,7 @@ With the new [maven data challenge](https://mavenanalytics.io/data-playground) t
 ### Overview
 
 The exercise overview can be depicted as such:
-!["alt"](../materials/screenshot/ExcerciseOverview.jpg)
+!["alt"](../materials/screenshot/exerciseOverview.jpg)
 
 a data source will be created by the data connector. 
 The data will then be adjusted inside a data modelling layer. 
@@ -72,9 +72,9 @@ The prepared data is than visualised as a report.
 
 ### Sections
 
-The excercise is divided into two sections within their respective folders that should be completed in succession, since they depend on each other:
+The exercise is divided into two sections within their respective folders that should be completed in succession, since they depend on each other:
 - `./1_data_setup`: covers the creation of a data source and basic data modelling.
-- `./2_create_report`: covers the creation of a report with different diagram and control types while additionally trying to answer a few questions about the underlying data.
+- `./2_report_creation`: covers the creation of a report with different diagram and control types while additionally trying to answer a few questions about the underlying data.
 
 Instructions are located in the `./<section>/readme.md`.
 
