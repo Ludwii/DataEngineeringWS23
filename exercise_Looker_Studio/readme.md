@@ -64,7 +64,7 @@ With the new [maven data challenge](https://mavenanalytics.io/data-playground) t
 ### Overview
 
 The exercise overview can be depicted as such:
-!["alt"](../materials/screenshot/exerciseOverview.jpg)
+!["alt"](../materials/screenshot/ExerciseOverview.jpg)
 
 a data source will be created by the data connector. 
 The data will then be adjusted inside a data modelling layer. 
