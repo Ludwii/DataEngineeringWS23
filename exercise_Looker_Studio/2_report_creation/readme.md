@@ -1,7 +1,7 @@
 ## report creation
 In this exercise you will create a new report in Google Looker Studio and use it to answer questions on the underlying data.
 
-!["alt"](../../materials/screenshot/exerciseOverview.jpg)
+!["alt"](../../materials/screenshot/ExerciseOverview.jpg)
 
 Looking at the exercise overview, this exercise section will focus on Data Visualisation.
 
