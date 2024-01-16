@@ -10,7 +10,7 @@
      3. Which connector did you use? Look up how the connector works and briefly describe it.
         > used connector: "File Upload" by Google
         > 
-        > !["ERROR"](../../../materials/screenshot/exercise1Solution1.jpg)
+        > !["ERROR"](../../../materials/screenshot/Exercise1Solution1.jpg)
         >
         > Uploaded data is stored in Google Cloud Storage as "data set" and accessed as source there. There are many benefits to this including the ability to manage access to your data from the cloud or to easily use other Google Cloud services with your data.
   2. Adjust the data model
